@@ -1,1 +1,11 @@
-
+#include<stdio.h>
+void main()
+{
+printf("Hello World");
+}//c
+class Test{
+  public static void main(String args[]){
+  System.out.println("Hello World");
+  }
+}//java
+print('Hello World')#python
